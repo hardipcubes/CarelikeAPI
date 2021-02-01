@@ -7,6 +7,12 @@ namespace CarelikeAPI.Models
 
     public class APIResult
     {
+        /// <summary>
+        /// Gets or sets the provider.
+        /// </summary>
+        /// <value>
+        /// The provider.
+        /// </value>
         public List<APIProvider> Provider { get; set; }
     }
 

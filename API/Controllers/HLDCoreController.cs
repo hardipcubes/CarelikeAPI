@@ -9,6 +9,8 @@ using System.Collections.Generic;
 using BusinessObjects;
 using CarelikeAPI.App_Start;
 using CarelikeAPI.Models;
+using CarelikeAPI.Helper;
+using static CarelikeAPI.App_Start.APIUtil;
 
 namespace CarelikeAPI.Controllers
 {
@@ -20,6 +22,7 @@ namespace CarelikeAPI.Controllers
     public class HLDCoreController : BaseController
     {
         HLDCoreBLL BLL = new HLDCoreBLL(CustomCacheManagement.Connection.HLDCore);
+        CommonHelper objCommonHelper = new CommonHelper();
 
         /// <summary>
         /// Gets the application list.
@@ -33,27 +36,34 @@ namespace CarelikeAPI.Controllers
         {
             try
             {
-                if (APIUtil.IsValidRequest(Request.Headers))
+                if (IsValidRequest(Request.Headers))
                 {
-                    var RecordList = BLL.GetApplicationList(model);
-                    if (RecordList.Count > 0)
+                    if (model != null && ModelState.IsValid)
                     {
-                        return ProvideResponse(RecordList);
+                        var RecordList = BLL.GetApplicationList(model);
+                        if (RecordList.Count > 0)
+                        {
+                            return ProvideResponse(RecordList);
+                        }
+                        else
+                        {
+                            return ProvideResponse<string>(null, HttpStatusCode.NotFound, true, Constants.NotFound);
+                        }
                     }
                     else
                     {
-                        return ProvideResponse<string>(null, HttpStatusCode.NotFound, true, "No record found.");
+                        return ProvideResponse<List<KeyMessage>>(GetModelstateErrors(ModelState), HttpStatusCode.BadRequest, false, Constants.BadRequest);
                     }
                 }
                 else
                 {
-                    return ProvideResponse<string>(null, HttpStatusCode.OK, false, "Api key is not valid.");
+                    return ProvideResponse<string>(null, HttpStatusCode.OK, false, Constants.InvalidAPIKey);
                 }
 
             }
             catch (Exception ex)
             {
-                return ProvideResponse<string>(null, HttpStatusCode.InternalServerError, false, "Unable to process request.");
+                return ProvideResponse<string>(objCommonHelper.HandleError(ex), HttpStatusCode.InternalServerError, false, Constants.InternalServerError);
             }
         }
 

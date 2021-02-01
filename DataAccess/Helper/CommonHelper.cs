@@ -15,7 +15,7 @@ namespace DataAccess.Helper
 
         public static object ToDB<T>(T value)
         {
-            return value == null || value.ToString() == "0" ? (object)DBNull.Value : value;
+            return value == null ? (object)DBNull.Value : value;
         }
     }
 }

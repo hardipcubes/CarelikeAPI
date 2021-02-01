@@ -9,11 +9,15 @@ using System.Collections.Generic;
 using BusinessObjects;
 using CarelikeAPI.App_Start;
 using CarelikeAPI.Models;
+using CarelikeAPI.Helper;
+using static CarelikeAPI.App_Start.APIUtil;
 
 namespace CarelikeAPI.Controllers
 {
+    
     public class CarelikeAPIController : BaseController
     {
+        HLDCoreBLL BLL = new HLDCoreBLL(CustomCacheManagement.Connection.HLDCore);
 
         /// <summary>
         /// Standards the json API.
@@ -29,7 +33,31 @@ namespace CarelikeAPI.Controllers
         [ResponseType(typeof(List<APIResult>))]
         public HttpResponseMessage StandardJsonAPI(string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
         {
-            return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
+            try
+            {
+                if (APIUtil.IsValidRequest(Request.Headers))
+                {
+                    var RecordList = BLL.GetApplicationList(null);
+                    if (RecordList.Count > 0)
+                    {
+                        return ProvideResponse(RecordList);
+                    }
+                    else
+                    {
+                        return ProvideResponse<string>(null, HttpStatusCode.NotFound, true, "No record found.");
+                    }
+                }
+                else
+                {
+                    return ProvideResponse<string>(null, HttpStatusCode.OK, false, "Api key is not valid.");
+                }
+
+            }
+            catch (Exception ex)
+            {
+                return ProvideResponse<string>(null, HttpStatusCode.InternalServerError, false, "Unable to process request.");
+            }
+            //return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
 
         }
 

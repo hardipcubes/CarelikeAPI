@@ -4,12 +4,54 @@
         <name>CarelikeAPI</name>
     </assembly>
     <members>
+        <member name="T:CarelikeAPI.App_Start.APIUtil">
+            <summary>
+            API Util
+            </summary>
+        </member>
+        <member name="M:CarelikeAPI.App_Start.APIUtil.strConnection">
+            <summary>
+            Strings the connection.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CarelikeAPI.App_Start.APIUtil.IsValidRequest(System.Net.Http.Headers.HttpHeaders)">
+            <summary>
+            Determines whether [is valid request] [the specified headers].
+            </summary>
+            <param name="headers">The headers.</param>
+            <returns>
+              <c>true</c> if [is valid request] [the specified headers]; otherwise, <c>false</c>.
+            </returns>
+        </member>
         <member name="M:CarelikeAPI.App_Start.APIUtil.FindKeyFromHeader(System.Net.Http.Headers.HttpHeaders,System.String)">
             <summary>
             Find specific key from HttpHeaders list
             </summary>
             <param name="headers"></param>
             <param name="Key"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CarelikeAPI.App_Start.APIUtil.KeyMessage">
+            <summary>
+            Model key message
+            </summary>
+        </member>
+        <member name="P:CarelikeAPI.App_Start.APIUtil.KeyMessage.Key">
+            <summary>
+            Model key
+            </summary>
+        </member>
+        <member name="P:CarelikeAPI.App_Start.APIUtil.KeyMessage.Message">
+            <summary>
+            Message
+            </summary>
+        </member>
+        <member name="M:CarelikeAPI.App_Start.APIUtil.GetModelstateErrors(System.Web.Http.ModelBinding.ModelStateDictionary)">
+            <summary>
+            Get model state errors
+            </summary>
+            <param name="Ex"></param>
             <returns></returns>
         </member>
         <member name="T:CarelikeAPI.BundleConfig">
@@ -738,6 +780,19 @@
             <param name="providerId">The provider identifier.</param>
             <returns></returns>
         </member>
+        <member name="T:CarelikeAPI.Controllers.HLDCoreController">
+            <summary>
+             Carelike API Controller Class
+            </summary>
+            <seealso cref="T:CarelikeAPI.Controllers.BaseController" />
+        </member>
+        <member name="M:CarelikeAPI.Controllers.HLDCoreController.GetApplicationList(BusinessObjects.ApplicationParamModel)">
+            <summary>
+            Gets the application list.
+            </summary>
+            <param name="model">The model.</param>
+            <returns></returns>
+        </member>
         <member name="T:CarelikeAPI.WebApiApplication">
             <summary>
             
@@ -747,6 +802,14 @@
             <summary>
             
             </summary>
+        </member>
+        <member name="P:CarelikeAPI.Models.APIResult.Provider">
+            <summary>
+            Gets or sets the provider.
+            </summary>
+            <value>
+            The provider.
+            </value>
         </member>
     </members>
 </doc>

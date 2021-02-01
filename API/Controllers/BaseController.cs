@@ -34,22 +34,7 @@ namespace CarelikeAPI.Controllers
                 Message = Message
             });
         }
-        /// <summary>
-        /// provides dbpath connection string.
-        /// </summary>
-        /// <param name="CompanyId">The company identifier.</param>
-        /// <param name="User">The username.</param>
-        /// <param name="Password">The password.</param>
-        /// <returns></returns>
-        //protected string DBPathConnectionString(int CompanyId, string User, string Password)
-        //{
-        //    string devPasswordConnectionString = System.Configuration.ConfigurationManager.
-        //                ConnectionStrings["DevPassword"].ConnectionString;
-        //    UserLoginDAL objUserLoginDAL = new UserLoginDAL(devPasswordConnectionString);
-        //    string databaseId = objUserLoginDAL.ProcessGetDatabaseID(CompanyId);
-        //    string DBPath = objUserLoginDAL.ProcessGetString(Convert.ToInt32(databaseId), User, Password);
-        //    return DBPath;
-        //}
+         
 
     }
 }
