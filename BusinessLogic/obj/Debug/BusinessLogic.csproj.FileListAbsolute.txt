@@ -1,0 +1,83 @@
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\BusinessObjects.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\DataAccess.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\Twilio.AspNet.Mvc.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\Twilio.AspNet.Common.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\Twilio.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\BusinessObjects.pdb
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\DataAccess.pdb
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\Twilio.xml
+F:\Project\LMWebAPI\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+F:\Project\LMWebAPI\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Project\LMWebAPI\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Project\LMWebAPI\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\BusinessObjects.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\DataAccess.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\Twilio.AspNet.Mvc.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\Twilio.AspNet.Common.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\Twilio.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\BusinessObjects.pdb
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\BusinessObjects.dll.config
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\DataAccess.dll.config
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\Twilio.xml
+D:\TrishulSir\LMWebAPI\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\TrishulSir\LMWebAPI\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\TrishulSir\LMWebAPI\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\TrishulSir\LMWebAPI\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\TrishulSir\LMWebAPI\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\BusinessObjects.dll
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\DataAccess.dll
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\BusinessObjects.pdb
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\BusinessObjects.dll.config
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\bin\Debug\DataAccess.dll.config
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\TrishulSir\HLDCoreAPI\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\CarelikeAPI\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\CarelikeAPI\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.dll
+D:\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.dll
+D:\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.pdb
+D:\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.dll.config
+D:\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.dll.config
+D:\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.dll
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.dll
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.pdb
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\BusinessObjects.dll.config
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\My Data\TrishulSir\CarelikeAPI\BusinessLogic\obj\Debug\BusinessLogic.pdb

@@ -1,0 +1,64 @@
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\BusinessObjects.dll.config
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\BusinessObjects.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\BusinessObjects.pdb
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Logging.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Tokens.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.Web.Infrastructure.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Newtonsoft.Json.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.Web.Helpers.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.Web.Mvc.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.Web.Razor.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.Web.WebPages.Deployment.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.Web.WebPages.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.Web.WebPages.Razor.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Twilio.AspNet.Common.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Twilio.AspNet.Mvc.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Twilio.dll
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.JsonWebTokens.pdb
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Logging.pdb
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Logging.xml
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Tokens.pdb
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Tokens.xml
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Newtonsoft.Json.xml
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.IdentityModel.Tokens.Jwt.pdb
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+F:\Project\LMWebAPI\BusinessObjects\bin\Release\Twilio.xml
+F:\Project\LMWebAPI\BusinessObjects\obj\Release\BusinessObjects.csprojResolveAssemblyReference.cache
+F:\Project\LMWebAPI\BusinessObjects\obj\Release\BusinessObjects.dll
+F:\Project\LMWebAPI\BusinessObjects\obj\Release\BusinessObjects.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\BusinessObjects.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\BusinessObjects.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\BusinessObjects.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Logging.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Tokens.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Newtonsoft.Json.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.Web.Helpers.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.Web.Mvc.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.Web.Razor.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.Web.WebPages.Deployment.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.Web.WebPages.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.Web.WebPages.Razor.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Twilio.AspNet.Common.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Twilio.AspNet.Mvc.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Twilio.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Logging.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Logging.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Tokens.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Microsoft.IdentityModel.Tokens.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Newtonsoft.Json.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.IdentityModel.Tokens.Jwt.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\bin\Release\Twilio.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\obj\Release\BusinessObjects.csprojAssemblyReference.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\obj\Release\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\obj\Release\BusinessObjects.csproj.CopyComplete
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\obj\Release\BusinessObjects.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessObjects\obj\Release\BusinessObjects.pdb

@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Bitbucket\Leadmaster\Published\WebAPI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/helptext.XML">
+      <publishTime>04/14/2020 18:51:57</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="bin/BusinessLogic.dll">
+      <publishTime>04/14/2020 18:52:32</publishTime>
+    </File>
+    <File Include="bin/BusinessObjects.dll">
+      <publishTime>04/14/2020 18:52:32</publishTime>
+    </File>
+    <File Include="bin/DataAccess.dll">
+      <publishTime>04/14/2020 18:52:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/05/2018 19:35:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/05/2018 19:36:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/05/2018 19:42:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/26/2012 00:18:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/18/2017 13:57:10</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/05/2018 19:34:30</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>06/20/2015 11:44:56</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 17:32:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>11/28/2018 12:58:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 17:34:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>08/26/2014 04:34:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 17:32:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>01/28/2015 17:33:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 17:32:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/12/2014 04:56:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 17:32:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 17:34:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 17:34:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 17:34:30</publishTime>
+    </File>
+    <File Include="bin/Twilio.AspNet.Common.dll">
+      <publishTime>10/26/2018 19:41:38</publishTime>
+    </File>
+    <File Include="bin/Twilio.AspNet.Mvc.dll">
+      <publishTime>10/26/2018 20:52:46</publishTime>
+    </File>
+    <File Include="bin/Twilio.dll">
+      <publishTime>12/14/2018 21:51:36</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>04/14/2020 18:52:33</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.XmlSerializers.dll">
+      <publishTime>04/14/2020 18:52:36</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>01/23/2014 13:57:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="img/256-256.png">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="img/image.jpg">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/Help/test.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/oauth/Access.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/oauth/Authorize.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/AccountManagers.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/Campaigns.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/CustomLabels.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/DynemicDropDown.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/FollowUpTypes.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/FunctionCodes.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/Grades.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/Groups.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/LastLogHistory.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/PartnerReps.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/Partners.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/SalesStatuses.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TitleCodes.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeCallBack.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeCallBackData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeCasesData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeContactData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeContactNO.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeDataBaseData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeEmailData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeEmailTemplateData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeKeyValue.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeLeadData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeLNTracks.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeLogonData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeLogonInfo.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeLogonPrivileges.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeOpportunity.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeOpportunityData.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeOpportunityProduct.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypePartner.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypePartnerRep.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeRECDNO.datasource">
+      <publishTime>03/31/2020 14:23:16</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeSalesMgr.datasource">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeSalesRep.datasource">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="Web References/LMService/TypeWorkgroupData.datasource">
+      <publishTime>03/31/2020 14:23:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/14/2020 18:52:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

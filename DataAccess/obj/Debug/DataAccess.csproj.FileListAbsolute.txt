@@ -1,0 +1,174 @@
+F:\Project\LMWebAPI\DataAccess\bin\Debug\DataAccess.dll.config
+F:\Project\LMWebAPI\DataAccess\bin\Debug\DataAccess.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\DataAccess.pdb
+F:\Project\LMWebAPI\DataAccess\bin\Debug\BusinessObjects.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.Web.Helpers.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.Web.Mvc.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.Web.Razor.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.Web.WebPages.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Twilio.AspNet.Common.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Twilio.AspNet.Mvc.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Twilio.dll
+F:\Project\LMWebAPI\DataAccess\bin\Debug\BusinessObjects.pdb
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+F:\Project\LMWebAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+F:\Project\LMWebAPI\DataAccess\bin\Debug\Twilio.xml
+F:\Project\LMWebAPI\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\Project\LMWebAPI\DataAccess\obj\Debug\DataAccess.dll
+F:\Project\LMWebAPI\DataAccess\obj\Debug\DataAccess.pdb
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\DataAccess.dll.config
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\DataAccess.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\DataAccess.pdb
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\BusinessObjects.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.Web.Helpers.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Twilio.AspNet.Common.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Twilio.AspNet.Mvc.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Twilio.dll
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\BusinessObjects.pdb
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\BusinessObjects.dll.config
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\TrishulSir\LMWebAPI\DataAccess\bin\Debug\Twilio.xml
+D:\TrishulSir\LMWebAPI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\TrishulSir\LMWebAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\TrishulSir\LMWebAPI\DataAccess\obj\Debug\DataAccess.dll
+D:\TrishulSir\LMWebAPI\DataAccess\obj\Debug\DataAccess.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\DataAccess.dll.config
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\DataAccess.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\DataAccess.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\BusinessObjects.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.Web.Helpers.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\BusinessObjects.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\BusinessObjects.dll.config
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Twilio.xml
+D:\TrishulSir\HLDCoreAPI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\TrishulSir\HLDCoreAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\TrishulSir\HLDCoreAPI\DataAccess\obj\Debug\DataAccess.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\obj\Debug\DataAccess.pdb
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Twilio.AspNet.Common.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Twilio.AspNet.Mvc.dll
+D:\TrishulSir\HLDCoreAPI\DataAccess\bin\Debug\Twilio.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\DataAccess.dll.config
+D:\CarelikeAPI\DataAccess\bin\Debug\DataAccess.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\DataAccess.pdb
+D:\CarelikeAPI\DataAccess\bin\Debug\BusinessObjects.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\System.Web.Helpers.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Twilio.AspNet.Common.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Twilio.AspNet.Mvc.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\Twilio.dll
+D:\CarelikeAPI\DataAccess\bin\Debug\BusinessObjects.pdb
+D:\CarelikeAPI\DataAccess\bin\Debug\BusinessObjects.dll.config
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+D:\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\CarelikeAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\CarelikeAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+D:\CarelikeAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\CarelikeAPI\DataAccess\bin\Debug\Twilio.xml
+D:\CarelikeAPI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\CarelikeAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\CarelikeAPI\DataAccess\obj\Debug\DataAccess.dll
+D:\CarelikeAPI\DataAccess\obj\Debug\DataAccess.pdb
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\DataAccess.dll.config
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\DataAccess.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\DataAccess.pdb
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\BusinessObjects.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.Web.Helpers.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Twilio.AspNet.Common.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Twilio.AspNet.Mvc.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Twilio.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\BusinessObjects.pdb
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\BusinessObjects.dll.config
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\bin\Debug\Twilio.xml
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\obj\Debug\DataAccess.dll
+C:\My Data\TrishulSir\CarelikeAPI\DataAccess\obj\Debug\DataAccess.pdb

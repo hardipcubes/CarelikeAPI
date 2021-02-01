@@ -1,0 +1,28 @@
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\BusinessLogic.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\BusinessLogic.pdb
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\BusinessObjects.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\DataAccess.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\Twilio.AspNet.Mvc.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\Twilio.AspNet.Common.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\Twilio.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\Newtonsoft.Json.dll
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\BusinessObjects.pdb
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\DataAccess.pdb
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\Twilio.xml
+F:\Project\LMWebAPI\BusinessLogic\bin\Release\Newtonsoft.Json.xml
+F:\Project\LMWebAPI\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Project\LMWebAPI\BusinessLogic\obj\Release\BusinessLogic.dll
+F:\Project\LMWebAPI\BusinessLogic\obj\Release\BusinessLogic.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\BusinessLogic.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\BusinessLogic.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\BusinessObjects.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\DataAccess.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\BusinessObjects.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\BusinessObjects.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\DataAccess.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\bin\Release\DataAccess.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Release\BusinessLogic.csprojAssemblyReference.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Release\BusinessLogic.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\BusinessLogic\obj\Release\BusinessLogic.pdb

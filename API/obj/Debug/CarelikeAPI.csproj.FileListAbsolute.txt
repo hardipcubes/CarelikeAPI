@@ -1,0 +1,242 @@
+D:\CarelikeAPI\HLDCoreAPI\bin\CarelikeAPI.dll.config
+D:\CarelikeAPI\HLDCoreAPI\bin\CarelikeAPI.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\CarelikeAPI.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\helptext.XML
+D:\CarelikeAPI\HLDCoreAPI\bin\BusinessLogic.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\BusinessObjects.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\DataAccess.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.Logging.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.Tokens.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Newtonsoft.Json.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Net.Http.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Net.Http.Formatting.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Cors.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Helpers.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Http.Cors.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Http.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Http.WebHost.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Mvc.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Optimization.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Razor.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.WebPages.Deployment.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.WebPages.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.WebPages.Razor.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Twilio.AspNet.Common.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Twilio.AspNet.Mvc.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\Twilio.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\WebGrease.dll
+D:\CarelikeAPI\HLDCoreAPI\bin\BusinessLogic.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\BusinessObjects.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\BusinessObjects.dll.config
+D:\CarelikeAPI\HLDCoreAPI\bin\DataAccess.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\DataAccess.dll.config
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.Logging.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.Logging.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\Microsoft.IdentityModel.Tokens.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\Newtonsoft.Json.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\CarelikeAPI\HLDCoreAPI\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Net.Http.Formatting.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Helpers.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Http.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Http.Cors.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Http.WebHost.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Mvc.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Optimization.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.Razor.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.WebPages.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.WebPages.Deployment.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\System.Web.WebPages.Razor.xml
+D:\CarelikeAPI\HLDCoreAPI\bin\Twilio.xml
+D:\CarelikeAPI\HLDCoreAPI\obj\Debug\CarelikeAPI.csprojAssemblyReference.cache
+D:\CarelikeAPI\HLDCoreAPI\obj\Debug\CarelikeAPI.csproj.CopyComplete
+D:\CarelikeAPI\HLDCoreAPI\obj\Debug\CarelikeAPI.dll
+D:\CarelikeAPI\HLDCoreAPI\obj\Debug\CarelikeAPI.pdb
+D:\CarelikeAPI\API\bin\CarelikeAPI.dll.config
+D:\CarelikeAPI\API\bin\CarelikeAPI.dll
+D:\CarelikeAPI\API\bin\CarelikeAPI.pdb
+D:\CarelikeAPI\API\bin\helptext.XML
+D:\CarelikeAPI\API\bin\BusinessLogic.dll
+D:\CarelikeAPI\API\bin\BusinessObjects.dll
+D:\CarelikeAPI\API\bin\DataAccess.dll
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.dll
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\CarelikeAPI\API\bin\Microsoft.Web.Infrastructure.dll
+D:\CarelikeAPI\API\bin\Newtonsoft.Json.dll
+D:\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\CarelikeAPI\API\bin\System.Net.Http.dll
+D:\CarelikeAPI\API\bin\System.Net.Http.Formatting.dll
+D:\CarelikeAPI\API\bin\System.Web.Cors.dll
+D:\CarelikeAPI\API\bin\System.Web.Helpers.dll
+D:\CarelikeAPI\API\bin\System.Web.Http.Cors.dll
+D:\CarelikeAPI\API\bin\System.Web.Http.dll
+D:\CarelikeAPI\API\bin\System.Web.Http.WebHost.dll
+D:\CarelikeAPI\API\bin\System.Web.Mvc.dll
+D:\CarelikeAPI\API\bin\System.Web.Optimization.dll
+D:\CarelikeAPI\API\bin\System.Web.Razor.dll
+D:\CarelikeAPI\API\bin\System.Web.WebPages.Deployment.dll
+D:\CarelikeAPI\API\bin\System.Web.WebPages.dll
+D:\CarelikeAPI\API\bin\System.Web.WebPages.Razor.dll
+D:\CarelikeAPI\API\bin\Twilio.AspNet.Common.dll
+D:\CarelikeAPI\API\bin\Twilio.AspNet.Mvc.dll
+D:\CarelikeAPI\API\bin\Twilio.dll
+D:\CarelikeAPI\API\bin\WebGrease.dll
+D:\CarelikeAPI\API\bin\BusinessLogic.pdb
+D:\CarelikeAPI\API\bin\BusinessObjects.pdb
+D:\CarelikeAPI\API\bin\BusinessObjects.dll.config
+D:\CarelikeAPI\API\bin\DataAccess.pdb
+D:\CarelikeAPI\API\bin\DataAccess.dll.config
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.pdb
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.xml
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\CarelikeAPI\API\bin\Newtonsoft.Json.xml
+D:\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\CarelikeAPI\API\bin\System.Net.Http.Formatting.xml
+D:\CarelikeAPI\API\bin\System.Web.Helpers.xml
+D:\CarelikeAPI\API\bin\System.Web.Http.xml
+D:\CarelikeAPI\API\bin\System.Web.Http.Cors.xml
+D:\CarelikeAPI\API\bin\System.Web.Http.WebHost.xml
+D:\CarelikeAPI\API\bin\System.Web.Mvc.xml
+D:\CarelikeAPI\API\bin\System.Web.Optimization.xml
+D:\CarelikeAPI\API\bin\System.Web.Razor.xml
+D:\CarelikeAPI\API\bin\System.Web.WebPages.xml
+D:\CarelikeAPI\API\bin\System.Web.WebPages.Deployment.xml
+D:\CarelikeAPI\API\bin\System.Web.WebPages.Razor.xml
+D:\CarelikeAPI\API\bin\Twilio.xml
+D:\CarelikeAPI\API\obj\Debug\CarelikeAPI.csprojAssemblyReference.cache
+D:\CarelikeAPI\API\obj\Debug\CarelikeAPI.csproj.CopyComplete
+D:\CarelikeAPI\API\obj\Debug\CarelikeAPI.dll
+D:\CarelikeAPI\API\obj\Debug\CarelikeAPI.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\CarelikeAPI.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\CarelikeAPI.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\CarelikeAPI.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\helptext.XML
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\BusinessLogic.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\BusinessObjects.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\DataAccess.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.Web.Infrastructure.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Newtonsoft.Json.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Net.Http.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Net.Http.Formatting.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Cors.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Helpers.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Http.Cors.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Http.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Http.WebHost.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Mvc.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Optimization.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Razor.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.WebPages.Deployment.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.WebPages.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.WebPages.Razor.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Twilio.AspNet.Common.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Twilio.AspNet.Mvc.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Twilio.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\WebGrease.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\BusinessLogic.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\BusinessObjects.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\BusinessObjects.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\DataAccess.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\DataAccess.dll.config
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Newtonsoft.Json.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Net.Http.Formatting.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Helpers.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Http.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Http.Cors.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Http.WebHost.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Mvc.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Optimization.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.Razor.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.WebPages.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.WebPages.Deployment.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\System.Web.WebPages.Razor.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\bin\Twilio.xml
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\obj\Debug\CarelikeAPI.csprojAssemblyReference.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\obj\Debug\CarelikeAPI.csproj.CoreCompileInputs.cache
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\obj\Debug\CarelikeAPI.csproj.CopyComplete
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\obj\Debug\CarelikeAPI.dll
+D:\internal\FROM HARD\CarelikeAPI\CarelikeAPI\API\obj\Debug\CarelikeAPI.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\CarelikeAPI.dll.config
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\CarelikeAPI.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\CarelikeAPI.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\helptext.XML
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\BusinessLogic.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\BusinessObjects.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\DataAccess.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.Web.Infrastructure.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Newtonsoft.Json.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Net.Http.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Net.Http.Formatting.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Cors.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Helpers.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Http.Cors.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Http.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Http.WebHost.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Mvc.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Optimization.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Razor.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.WebPages.Deployment.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.WebPages.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.WebPages.Razor.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Twilio.AspNet.Common.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Twilio.AspNet.Mvc.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Twilio.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\WebGrease.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\BusinessLogic.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\BusinessObjects.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\BusinessObjects.dll.config
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\DataAccess.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\DataAccess.dll.config
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.Logging.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Newtonsoft.Json.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Net.Http.Formatting.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Helpers.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Http.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Http.Cors.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Http.WebHost.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Mvc.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Optimization.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.Razor.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.WebPages.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.WebPages.Deployment.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\System.Web.WebPages.Razor.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\bin\Twilio.xml
+C:\My Data\TrishulSir\CarelikeAPI\API\obj\Debug\CarelikeAPI.csprojAssemblyReference.cache
+C:\My Data\TrishulSir\CarelikeAPI\API\obj\Debug\CarelikeAPI.csproj.CoreCompileInputs.cache
+C:\My Data\TrishulSir\CarelikeAPI\API\obj\Debug\CarelikeAPI.csproj.CopyComplete
+C:\My Data\TrishulSir\CarelikeAPI\API\obj\Debug\CarelikeAPI.dll
+C:\My Data\TrishulSir\CarelikeAPI\API\obj\Debug\CarelikeAPI.pdb

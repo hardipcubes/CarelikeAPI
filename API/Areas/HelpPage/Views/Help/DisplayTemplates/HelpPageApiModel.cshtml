@@ -1,0 +1,58 @@
+@using System.Web.Http
+@using CarelikeAPI.Areas.HelpPage.Models
+@model HelpPageApiModel
+
+@{
+    var description = Model.ApiDescription;
+    bool hasParameters = description.ParameterDescriptions.Count > 0;
+    bool hasRequestSamples = Model.SampleRequests.Count > 0;
+    bool hasResponseSamples = Model.SampleResponses.Count > 0;
+}
+<h4>URL</h4>
+<p> https://publicapi.carelike.com/@description.RelativePath</p>
+<div>
+    @if (description.Documentation != null)
+    {
+        <h4>Description</h4>
+        <p>@description.Documentation</p>
+    }
+    else
+    {
+        <p>No documentation available.</p>
+    }
+
+    <h4>HttpMethod</h4>
+    <p>@description.HttpMethod.Method</p>
+
+
+
+    @if (hasParameters || hasRequestSamples)
+    {
+        <h4>Request Information</h4>
+        if (hasParameters)
+        {
+            <h3>Parameters</h3>
+            @Html.DisplayFor(apiModel => apiModel.ApiDescription.ParameterDescriptions, "Parameters")
+        }
+        if (hasRequestSamples)
+        {
+            <h3>Request body formats</h3>
+            @Html.DisplayFor(apiModel => apiModel.SampleRequests, "Samples")
+        }
+    }
+
+    @if (hasResponseSamples)
+    {
+        <h2>Response Information</h2>
+        if (description.ResponseDescription.Documentation != null)
+        {
+            <p>@description.ResponseDescription.Documentation</p>
+        }
+        else
+        {
+            <p>No documentation available.</p>
+        }
+        <h3>Response body formats</h3>
+        @Html.DisplayFor(apiModel => apiModel.SampleResponses, "Samples")
+    }
+</div>

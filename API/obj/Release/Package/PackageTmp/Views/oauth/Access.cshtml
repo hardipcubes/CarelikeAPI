@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Access";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Access</h2>
+
+@if (!string.IsNullOrEmpty(ViewBag.error))
+{
+    <span>@Html.Raw(ViewBag.error)</span>
+}
+else
+{
+    <a href="@Html.Raw(ViewBag.success)">Accept</a>
+}

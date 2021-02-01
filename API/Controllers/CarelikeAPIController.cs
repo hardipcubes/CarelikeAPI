@@ -1,0 +1,94 @@
+﻿using BusinessObjects.ViewModel;
+using System;
+using System.Net;
+using System.Net.Http;
+using System.Web.Http;
+using System.Web.Http.Description;
+using BusinessLogic;
+using System.Collections.Generic;
+using BusinessObjects;
+using CarelikeAPI.App_Start;
+using CarelikeAPI.Models;
+
+namespace CarelikeAPI.Controllers
+{
+    public class CarelikeAPIController : BaseController
+    {
+
+        /// <summary>
+        /// Standards the json API.
+        /// </summary>
+        /// <param name="id">Client Token ID.</param>
+        /// <param name="pagesize">Pagesize is number of records per page.</param>
+        /// <param name="pageno"> Page number for set of page.</param>
+        /// <param name="since">Cut of date.</param>
+        /// <param name="providerId">The provider identifier.</param>
+        /// <returns></returns>
+        [HttpGet]
+        [Route("api/carelike/json")]
+        [ResponseType(typeof(List<APIResult>))]
+        public HttpResponseMessage StandardJsonAPI(string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
+        {
+            return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
+
+        }
+
+        /// <summary>
+        /// Standards the XML API.
+        /// </summary>
+        /// <param name="id">The identifier.</param>
+        /// <param name="pagesize">The pagesize.</param>
+        /// <param name="pageno">The pageno.</param>
+        /// <param name="since">The since.</param>
+        /// <param name="providerId">The provider identifier.</param>
+        /// <returns></returns>
+        [HttpGet]
+        [Route("api/carelike/xml")]
+        [ResponseType(typeof(List<APIResult>))]
+        public HttpResponseMessage StandardXMLAPI(string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
+        {
+            return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
+
+        }
+
+        /// <summary>
+        /// Dynamics the json API.
+        /// </summary>
+        /// <param name="type">The type.</param>
+        /// <param name="id">The identifier.</param>
+        /// <param name="pagesize">The pagesize.</param>
+        /// <param name="pageno">The pageno.</param>
+        /// <param name="since">The since.</param>
+        /// <param name="providerId">The provider identifier.</param>
+        /// <returns></returns>
+        [HttpGet]
+        [Route("api/carelike/json")]
+        [ResponseType(typeof(List<DynamicAPIModel>))]
+        public HttpResponseMessage DynamicJsonAPI(string type,string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
+        {
+            return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
+
+        }
+
+        /// <summary>
+        /// Dynamics the XML API.
+        /// </summary>
+        /// <param name="type">The type.</param>
+        /// <param name="id">The identifier.</param>
+        /// <param name="pagesize">The pagesize.</param>
+        /// <param name="pageno">The pageno.</param>
+        /// <param name="since">The since.</param>
+        /// <param name="providerId">The provider identifier.</param>
+        /// <returns></returns>
+        [HttpGet]
+        [Route("api/carelike/xml")]
+        [ResponseType(typeof(List<DynamicAPIModel>))]
+        public HttpResponseMessage DynamicXMLAPI(string type, string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
+        {
+            return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
+
+        }
+
+
+    }
+}

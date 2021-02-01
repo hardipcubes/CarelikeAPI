@@ -1,0 +1,44 @@
+@using System.Web.Http
+@using System.Web.Http.Controllers
+@using System.Web.Http.Description
+@using System.Collections.ObjectModel
+@using CarelikeAPI.Areas.HelpPage.Models
+@model Collection<ApiDescription>
+
+@{
+    ViewBag.Title = "CarelikeAPI";
+
+    // Group APIs by controller
+    ILookup<HttpControllerDescriptor, ApiDescription> apiGroups = Model.ToLookup(api => api.ActionDescriptor.ControllerDescriptor);
+}
+
+@*<header>
+    <div class="content-wrapper">
+        <div class="float-left">
+            <h3>@ViewBag.Title</h3>
+        </div>
+    </div>
+</header>*@
+<div id="body">
+    <section class="featured">
+        <div class="content-wrapper">
+            <h4>Introduction</h4>
+            <p>
+                Carelike public API provide secure provider data detail information. User need to pass token and parameter as per below given sample.
+                <br />
+                Below is given Parameter to pass and their data type sample. Also you will find sample json result format.
+                <br />
+            </p>
+        </div>
+    </section>
+    <section class="content-wrapper main-content clear-fix">
+        @foreach (var group in apiGroups)
+        {
+            @Html.DisplayFor(m => group, "ApiGroup")
+        }
+    </section>
+</div>
+
+@section Scripts {
+    <link type="text/css" href="~/Areas/HelpPage/HelpPage.css" rel="stylesheet" />
+}
