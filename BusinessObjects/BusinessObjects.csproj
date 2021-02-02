@@ -108,6 +108,7 @@
   <ItemGroup>
     <Compile Include="ApplicationModel.cs" />
     <Compile Include="ConnectionModel.cs" />
+    <Compile Include="StandardModel.cs" />
     <Compile Include="ViewModel\APIResponseBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

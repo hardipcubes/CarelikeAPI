@@ -22,7 +22,7 @@ namespace BusinessLogic
         public ConnectionModel GetConnection()
         {
             ConnectionModel mdl = new ConnectionModel();
-            mdl.HLDCore = _connection;
+            mdl.Carelike = _connection;
             return mdl;
         }
 

@@ -1,5 +1,4 @@
-﻿using BusinessObjects.ViewModel;
-using System;
+﻿using System;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
@@ -9,7 +8,6 @@ using System.Collections.Generic;
 using BusinessObjects;
 using CarelikeAPI.App_Start;
 using CarelikeAPI.Models;
-using CarelikeAPI.Helper;
 using static CarelikeAPI.App_Start.APIUtil;
 
 namespace CarelikeAPI.Controllers
@@ -17,27 +15,18 @@ namespace CarelikeAPI.Controllers
     
     public class CarelikeAPIController : BaseController
     {
-        HLDCoreBLL BLL = new HLDCoreBLL(CustomCacheManagement.Connection.HLDCore);
+        CarelikeBLL BLL = new CarelikeBLL(CustomCacheManagement.Connection.Carelike);
 
-        /// <summary>
-        /// Standards the json API.
-        /// </summary>
-        /// <param name="id">Client Token ID.</param>
-        /// <param name="pagesize">Pagesize is number of records per page.</param>
-        /// <param name="pageno"> Page number for set of page.</param>
-        /// <param name="since">Cut of date.</param>
-        /// <param name="providerId">The provider identifier.</param>
-        /// <returns></returns>
-        [HttpGet]
-        [Route("api/carelike/json")]
-        [ResponseType(typeof(List<APIResult>))]
-        public HttpResponseMessage StandardJsonAPI(string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
+        [HttpPost]
+        [Route("api/standard")]
+        [ResponseType(typeof(List<APIProvider>))]
+        public HttpResponseMessage StandardAPI(StandardAPIRequestModel model)
         {
             try
             {
-                if (APIUtil.IsValidRequest(Request.Headers))
+                if (IsValidRequest(Request.Headers))
                 {
-                    var RecordList = BLL.GetApplicationList(null);
+                    var RecordList = BLL.StandardAPI(model);
                     if (RecordList.Count > 0)
                     {
                         return ProvideResponse(RecordList);
@@ -57,27 +46,26 @@ namespace CarelikeAPI.Controllers
             {
                 return ProvideResponse<string>(null, HttpStatusCode.InternalServerError, false, "Unable to process request.");
             }
-            //return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
 
         }
 
-        /// <summary>
-        /// Standards the XML API.
-        /// </summary>
-        /// <param name="id">The identifier.</param>
-        /// <param name="pagesize">The pagesize.</param>
-        /// <param name="pageno">The pageno.</param>
-        /// <param name="since">The since.</param>
-        /// <param name="providerId">The provider identifier.</param>
-        /// <returns></returns>
-        [HttpGet]
-        [Route("api/carelike/xml")]
-        [ResponseType(typeof(List<APIResult>))]
-        public HttpResponseMessage StandardXMLAPI(string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
-        {
-            return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
+        ///// <summary>
+        ///// Standards the XML API.
+        ///// </summary>
+        ///// <param name="id">The identifier.</param>
+        ///// <param name="pagesize">The pagesize.</param>
+        ///// <param name="pageno">The pageno.</param>
+        ///// <param name="since">The since.</param>
+        ///// <param name="providerId">The provider identifier.</param>
+        ///// <returns></returns>
+        //[HttpGet]
+        //[Route("api/carelike/xml")]
+        //[ResponseType(typeof(List<APIResult>))]
+        //public HttpResponseMessage StandardXMLAPI(string id, int pagesize = 0, int pageno = 0, string since = "", string providerId = "")
+        //{
+        //    return ProvideResponse<string>(null, HttpStatusCode.OK, false, string.Empty);
 
-        }
+        //}
 
         /// <summary>
         /// Dynamics the json API.

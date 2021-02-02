@@ -8,7 +8,7 @@ namespace BusinessObjects
 {
     public class ConnectionModel
     {
-        public string HLDCore { get; set; }
+        public string Carelike { get; set; }
     }
     public class CurrentUser
     {

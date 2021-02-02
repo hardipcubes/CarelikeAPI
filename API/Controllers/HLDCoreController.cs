@@ -21,7 +21,7 @@ namespace CarelikeAPI.Controllers
     [RoutePrefix("api")]
     public class HLDCoreController : BaseController
     {
-        HLDCoreBLL BLL = new HLDCoreBLL(CustomCacheManagement.Connection.HLDCore);
+        HLDCoreBLL BLL = new HLDCoreBLL(CustomCacheManagement.Connection.Carelike);
         CommonHelper objCommonHelper = new CommonHelper();
 
         /// <summary>

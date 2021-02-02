@@ -734,28 +734,6 @@
             <param name="Message">The message.</param>
             <returns></returns>
         </member>
-        <member name="M:CarelikeAPI.Controllers.CarelikeAPIController.StandardJsonAPI(System.String,System.Int32,System.Int32,System.String,System.String)">
-            <summary>
-            Standards the json API.
-            </summary>
-            <param name="id">Client Token ID.</param>
-            <param name="pagesize">Pagesize is number of records per page.</param>
-            <param name="pageno"> Page number for set of page.</param>
-            <param name="since">Cut of date.</param>
-            <param name="providerId">The provider identifier.</param>
-            <returns></returns>
-        </member>
-        <member name="M:CarelikeAPI.Controllers.CarelikeAPIController.StandardXMLAPI(System.String,System.Int32,System.Int32,System.String,System.String)">
-            <summary>
-            Standards the XML API.
-            </summary>
-            <param name="id">The identifier.</param>
-            <param name="pagesize">The pagesize.</param>
-            <param name="pageno">The pageno.</param>
-            <param name="since">The since.</param>
-            <param name="providerId">The provider identifier.</param>
-            <returns></returns>
-        </member>
         <member name="M:CarelikeAPI.Controllers.CarelikeAPIController.DynamicJsonAPI(System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
             <summary>
             Dynamics the json API.
@@ -780,19 +758,6 @@
             <param name="providerId">The provider identifier.</param>
             <returns></returns>
         </member>
-        <member name="T:CarelikeAPI.Controllers.HLDCoreController">
-            <summary>
-             Carelike API Controller Class
-            </summary>
-            <seealso cref="T:CarelikeAPI.Controllers.BaseController" />
-        </member>
-        <member name="M:CarelikeAPI.Controllers.HLDCoreController.GetApplicationList(BusinessObjects.ApplicationParamModel)">
-            <summary>
-            Gets the application list.
-            </summary>
-            <param name="model">The model.</param>
-            <returns></returns>
-        </member>
         <member name="T:CarelikeAPI.WebApiApplication">
             <summary>
             
@@ -802,14 +767,6 @@
             <summary>
             
             </summary>
-        </member>
-        <member name="P:CarelikeAPI.Models.APIResult.Provider">
-            <summary>
-            Gets or sets the provider.
-            </summary>
-            <value>
-            The provider.
-            </value>
         </member>
     </members>
 </doc>
