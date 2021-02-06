@@ -8,19 +8,104 @@ using System.Threading.Tasks;
 namespace BusinessObjects
 {
 
-    #region MyRegion
+    #region Internal Model
+    public class TblCustomerAPI
+    {
+        /// <summary>
+        /// Gets or sets the API identifier.
+        /// </summary>
+        /// <value>
+        /// The API identifier.
+        /// </value>
+        public int APIId { get; set; }
 
+        /// <summary>
+        /// Gets or sets the welcome title.
+        /// </summary>
+        /// <value>
+        /// The welcome title.
+        /// </value>
+        public string WelcomeTitle { get; set; }
+        /// <summary>
+        /// Gets or sets the instruction.
+        /// </summary>
+        /// <value>
+        /// The instruction.
+        /// </value>
+        public string Instruction { get; set; }
+        /// <summary>
+        /// Gets or sets the privacy policy value.
+        /// </summary>
+        /// <value>
+        /// The privacy policy value.
+        /// </value>
+        public string PrivacyPolicyValue { get; set; }
+        /// <summary>
+        /// Gets or sets the terms of service value.
+        /// </summary>
+        /// <value>
+        /// The terms of service value.
+        /// </value>
+        public string TermsOfServiceValue { get; set; }
+        /// <summary>
+        /// Gets or sets from date.
+        /// </summary>
+        /// <value>
+        /// From date.
+        /// </value>
+        public DateTime FromDate { get; set; }
+        /// <summary>
+        /// Converts to date.
+        /// </summary>
+        /// <value>
+        /// To date.
+        /// </value>
+        public DateTime ToDate { get; set; }
+
+    }
+     
     #endregion
     public class StandardAPIRequestModel
     {
+        /// <summary>
+        /// Gets or sets the identifier.
+        /// </summary>
+        /// <value>
+        /// The identifier.
+        /// </value>
         [Required]
-        public int Id { get; set; }
+        public string Id { get; set; }
 
+        /// <summary>
+        /// Gets or sets the provider identifier.
+        /// </summary>
+        /// <value>
+        /// The provider identifier.
+        /// </value>
         public string ProviderId { get; set; }
 
-        public int DisplayRecordFrom { get; set; }
+        /// <summary>
+        /// Gets or sets the off set.
+        /// </summary>
+        /// <value>
+        /// The off set.
+        /// </value>
+        public int OffSet { get; set; }
 
-        public int DisplayRecordTo { get; set; }
+        /// <summary>
+        /// If you can not parse then default 20 record featch.
+        /// </summary>
+        /// <value>
+        /// The display record to.
+        /// </value>
+        public int FetchNext { get; set; }
+
+        /// <summary>
+        /// Gets or sets the date time since.
+        /// </summary>
+        /// <value>
+        /// The date time since.
+        /// </value>
         [Required]
         public DateTime DateTimeSince { get; set; }
 
@@ -38,7 +123,7 @@ namespace BusinessObjects
         public string ProviderId { get; set; }
         public int PartyId { get; set; }
         public string DBAName { get; set; }
-        public  DateTime CreatedDate { get; set; }
+        public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
         public DateTime? UntilDate { get; set; }
         public string FKAName { get; set; }
@@ -80,20 +165,19 @@ namespace BusinessObjects
         public DateTime? UntilDate { get; set; }
     }
 
-
-
+     
     public class APIProviderMembership
     {
-        //public int ProviderMembershipId { get; set; }
-        //public int MembershipId { get; set; }
+        public string ProviderId { get; set; }
         public string MembershipType { get; set; }
         public string MembershipNumber { get; set; }
-        public System.DateTime CreatedDate { get; set; }
+        public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
         public DateTime? UntilDate { get; set; }
         public string Issuer { get; set; }
         public string FullName { get; set; }
         public string Abbreviation { get; set; }
+        
     }
 
 

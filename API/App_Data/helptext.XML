@@ -734,6 +734,13 @@
             <param name="Message">The message.</param>
             <returns></returns>
         </member>
+        <member name="M:CarelikeAPI.Controllers.CarelikeAPIController.StandardAPI(BusinessObjects.StandardAPIRequestModel)">
+            <summary>
+            Standards the API.
+            </summary>
+            <param name="model">The model.</param>
+            <returns></returns>
+        </member>
         <member name="M:CarelikeAPI.Controllers.CarelikeAPIController.DynamicJsonAPI(System.String,System.String,System.Int32,System.Int32,System.String,System.String)">
             <summary>
             Dynamics the json API.

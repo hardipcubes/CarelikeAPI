@@ -12,18 +12,18 @@ namespace DataAccess
         {
             _connection = connection;
         }
-        public DataTable StandardAPI(StandardAPIRequestModel model)
+        public DataSet StandardAPI(StandardAPIRequestModel model)
         {
             SqlParameter[] sqlParam = new SqlParameter[]
             {
                     new SqlParameter() {ParameterName = "@Id",Value= CommonHelper.ToDB(model.Id) },
                     new SqlParameter() {ParameterName = "@ProviderId",Value= CommonHelper.ToDB(model.ProviderId) },
-                    new SqlParameter() {ParameterName = "@DisplayRecordFrom",Value= CommonHelper.ToDB(model.DisplayRecordFrom) },
-                    new SqlParameter() {ParameterName = "@DisplayRecordTo",Value= CommonHelper.ToDB(model.DisplayRecordTo) },
+                    new SqlParameter() {ParameterName = "@OffSet",Value= CommonHelper.ToDB(model.OffSet) },
+                    new SqlParameter() {ParameterName = "@FetchNext",Value= CommonHelper.ToDB(model.FetchNext) },
                     new SqlParameter() {ParameterName = "@DateTimeSince",Value= CommonHelper.ToDB(model.DateTimeSince) },
             };
 
-            return new DatabaseHelper(_connection).DataTable("API_GetStandardProviderList", sqlParam);
+            return new DatabaseHelper(_connection).GetDatasetData("API_GetStandardProviderList", sqlParam);
         }
     }
 }
